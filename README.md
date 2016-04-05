@@ -10,13 +10,19 @@ fknn.m: An implementation of Fuzzy k-NN classifier.
 If you use the implementation of Fuzzy Stacked Generalization (fsg.m), please cite the following papers:
 
 @article{Ozay201614,
+
 title = {Hierarchical distance learning by stacking nearest neighbor classifiers},
+
 journal = {Information Fusion},
+
 volume = {29},
-number = "",
+
 pages = {14 - 31},
+
 year = {2016},
+
 author = {Mete Ozay and Fatos Tunay Yarman-Vural}
+
 }
 
 
