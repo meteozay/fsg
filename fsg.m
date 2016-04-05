@@ -51,8 +51,8 @@ labels_te_temp=labels_te;
 
 for c=1:class_n
    
-    labels_tr_temp(find(labels_tr_temp==class_list(c)))=c;
-    labels_te_temp(find(labels_te_temp==class_list(c)))=c;    
+    labels_tr_temp(find(labels_tr==class_list(c)))=c;
+    labels_te_temp(find(labels_te==class_list(c)))=c;    
     
 end
 
