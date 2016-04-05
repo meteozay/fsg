@@ -21,6 +21,7 @@ load('edge_histogram.mat')
 
 load('region_shape.mat')
 
+load('labels.mat')
 % Define number of classes:
 
 class_num=3;
